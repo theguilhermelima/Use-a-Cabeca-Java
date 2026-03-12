@@ -1,5 +1,5 @@
 public class BottleSong {
-    public static void main(String[] args) {
+    public static void xmain(String[] args) {
         
         int bottlesNum = 10;
         String word = "bottles";
