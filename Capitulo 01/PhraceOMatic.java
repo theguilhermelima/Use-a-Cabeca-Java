@@ -1,5 +1,5 @@
 public class PhraceOMatic {
-    public static void main(String[] args) {
+    public static void xmain(String[] args) {
         String[] wordListOne = { "agnostic", "opinionated", "voice actived", "haptivally driven", "extensible", "reactve", "agent based", "functional", "Ai enabled", "strongly typed" };
 
         String[] wordListTwo = { "loosely coupled", "six sigma", "asynchronous", "event driven", "pub-sub", "IoT", "cloudnative", "service oriented", "containerized", "serverless", "microservices", "distributed ledger" };
